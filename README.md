@@ -94,6 +94,8 @@ These articles and documentation were very useful in shaping this project and pr
 
 - [Diagrams Official Docs — Getting Started & Installation](https://diagrams.mingrammer.com/docs/getting-started/installation)
 
+- [Dashboard Icons](https://dashboardicons.com/icons)
+
 Big thanks 🙏 to the Diagrams community and documentation for providing clear, practical examples.
 
 ---
