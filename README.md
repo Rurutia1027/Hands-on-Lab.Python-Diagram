@@ -45,9 +45,9 @@ By practicing with these examples:
 
 ## Diagram As Code Generated Diagrams 
 
-![k8s_arch](k8s_arch.png)
+![k8s_arch](./diagrams/k8s_arch.png)
 
-![aws_saas](./aws_saas_pipeline.png)
+![aws_saas](./diagrams/aws_saas_pipeline.png)
 ---
 
 ## How to use
