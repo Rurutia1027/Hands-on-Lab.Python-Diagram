@@ -47,7 +47,7 @@ By practicing with these examples:
 
 ![k8s_arch](k8s_arch.png)
 
-
+![aws_saas](./aws_saas_pipeline.png)
 ---
 
 ## How to use
