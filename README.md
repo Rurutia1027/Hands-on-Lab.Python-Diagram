@@ -71,6 +71,18 @@ This command gonna generate `k8s_arch.png`.
 - Add service mesh (Istio, Linkerd)
 - Add multi-cloud hybrid architectures 
 
+---
+
+## References
+
+These articles and documentation were very useful in shaping this project and provide more examples and context:
+- [Top 7 Diagrams as Code Tools for Software Architecture — Medium (IcePanel)](https://icepanel.medium.com/top-7-diagrams-as-code-tools-for-software-architecture-1a9dd0df1815)
+
+- [7 Open-Source Diagram-as-Code Tools You Should Try — Medium (Prateek Jain)](https://blog.prateekjain.dev/7-open-source-diagram-as-code-tools-you-should-try-d13d0e972601)
+
+- [Diagrams Official Docs — Getting Started & Installation](https://diagrams.mingrammer.com/docs/getting-started/installation)
+
+Big thanks 🙏 to the Diagrams community and documentation for providing clear, practical examples.
 
 ---
 
