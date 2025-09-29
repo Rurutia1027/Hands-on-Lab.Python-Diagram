@@ -43,6 +43,13 @@ By practicing with these examples:
 
 ---
 
+## Diagram As Code Generated Diagrams 
+
+![k8s_arch](k8s_arch.png)
+
+
+---
+
 ## How to use
 
 1. Install dependencies:

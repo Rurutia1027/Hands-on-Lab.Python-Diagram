@@ -35,7 +35,8 @@ jobs:
       - name: Generate diagrams
         run: |
           mkdir -p diagrams_output
-          for file in *.py; do
+          pwd && ls 
+          for file in scripts/*.py; do
             echo "Running $file ..."
             python "$file"
           done
