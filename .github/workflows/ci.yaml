@@ -45,7 +45,7 @@ jobs:
 
       # 6. Upload generated diagrams as artifacts
       - name: Upload diagrams
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: diagrams
           path: diagrams_output/
